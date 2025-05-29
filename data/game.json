@@ -2,7 +2,9 @@
   "name": "ANO",
   "menuBackgroundImage": "",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://theodep.github.io/ano-tcg-assets/playmats/default.webp"
+    ],
     "decksUrl": ""
   },
   "customHelp": "",
