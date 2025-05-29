@@ -8,7 +8,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "",
+    "dataUrl": "https://theodep.github.io/ano-tcg-assets/data/cards.json",
     "cardBack": "https://theodep.github.io/ano-tcg-assets/cards/back.webp"
   },
   "deckBuilding": {
