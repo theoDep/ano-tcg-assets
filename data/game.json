@@ -1,0 +1,142 @@
+{
+  "name": "ANO",
+  "menuBackgroundImage": "",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "",
+    "cardBack": "https://theodep.github.io/ano-tcg-assets/cards/back.webp"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "Couleur",
+      "cost"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": [
+          "Second Deck"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "5",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "200"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Card_1-1",
+          "Card_1-2",
+          "Card_1-3",
+          "Card_2-1",
+          "Card_2-2",
+          "Card_2-3",
+          "Card_3-1",
+          "Card_3-2",
+          "Card_3-3"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Card_1-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Card_1-2",
+                      "style": false
+                    },
+                    {
+                      "section": "Card_1-3",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Card_2-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Card_2-2",
+                      "style": false
+                    },
+                    {
+                      "section": "Card_2-3",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Card_3-1",
+                      "style": false
+                    },
+                    {
+                      "section": "Card_3-2",
+                      "style": false
+                    },
+                    {
+                      "section": "Card_3-3",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Second Deck->ExileHidden"
+        ],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {}
+      }
+    }
+  }
+}

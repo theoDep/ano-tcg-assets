@@ -1,0 +1,596 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esprit du brasier",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/1.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esprit du Brasier",
+    "type": "Creature",
+    "cost": "2",
+    "Force": "10",
+    "Endurance": "5",
+    "Type": "Esprit",
+    "Evolution": "",
+    "Pre evolution": true
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vulpes du brasier",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/2.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vulpes du brasier",
+    "type": "Creature",
+    "cost": "4",
+    "SD": false,
+    "Force": "20",
+    "Endurance": "10",
+    "Type": "Esprit",
+    "Pre evolution": true,
+    "Evolution": true,
+    "Cout evolution": "2"
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pyromancier du brasier",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/3.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pyromancien du brasier",
+    "type": "Creature",
+    "cost": "6",
+    "SD": false,
+    "Type": "Esprit",
+    "Force": "30",
+    "Endurance": "15",
+    "Pre evolution": true,
+    "Evolution": true,
+    "Cout evolution": "2"
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Archimage du brasier",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/4.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Archimage du brasier",
+    "type": "Creature",
+    "cost": "8",
+    "Type": "Esprit",
+    "Force": "35",
+    "Endurance": "25",
+    "Evolution": true,
+    "Cout evolution": "2"
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vagabond de l'ouest",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/5.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vagabond de l'ouest",
+    "type": false,
+    "cost": "2",
+    "SD": false,
+    "Type": "Humanoide",
+    "Force": "5",
+    "Endurance": "10",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "6": {
+    "id": "6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duelliste de l'ouest",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/6.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duelliste de l'ouest",
+    "type": false,
+    "cost": "4",
+    "SD": false,
+    "Type": "Humanoide",
+    "Force": "15",
+    "Endurance": "5",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": 0
+  },
+  "7": {
+    "id": "7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eclosion de balles",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/7.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eclosion de balles",
+    "type": "Sort",
+    "cost": "7",
+    "SD": false,
+    "Type": "",
+    "Force": "",
+    "Endurance": "",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "8": {
+    "id": "8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Porte-flambeau",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/8.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Porte-flambeau",
+    "type": "Creature",
+    "cost": "2",
+    "SD": false,
+    "Type": "Humanoide",
+    "Force": "10",
+    "Endurance": "5",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "9": {
+    "id": "9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanctifier",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/9.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanctifier",
+    "type": "Sort",
+    "cost": "3",
+    "SD": false,
+    "Type": "",
+    "Force": "",
+    "Endurance": "",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "10": {
+    "id": "10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Croiser vertueux",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/10.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Croiser vertueux",
+    "type": "Creature",
+    "cost": "6",
+    "SD": false,
+    "Type": "Humanoide Divin",
+    "Force": "15",
+    "Endurance": "15",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "11": {
+    "id": "11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recolte de citrouilliard",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/11.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recolte de citrouilliard",
+    "type": "Sort",
+    "cost": "3",
+    "SD": false,
+    "Type": "",
+    "Force": "",
+    "Endurance": "",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "12": {
+    "id": "12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fend'os",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/12.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fend'os",
+    "type": "Creature",
+    "cost": "4",
+    "SD": false,
+    "Type": "Esprit Humanoide",
+    "Force": "10",
+    "Endurance": "10",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "13": {
+    "id": "13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doudouhan",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/13.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doudouhan",
+    "type": "Creature",
+    "cost": "6",
+    "SD": false,
+    "Type": "Esprit Demon",
+    "Force": "20",
+    "Endurance": "25",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "14": {
+    "id": "14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esprit des abysses",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/14.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esprit des abysses",
+    "type": "Creature",
+    "cost": "2",
+    "SD": false,
+    "Type": "Esprit",
+    "Force": "5",
+    "Endurance": "10",
+    "Pre evolution": true,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "15": {
+    "id": "15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Axolotl des abysses",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/15.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Axolotl des abysses",
+    "type": "Creature",
+    "cost": "4",
+    "SD": false,
+    "Type": "Esprit",
+    "Force": "10",
+    "Endurance": "20",
+    "Pre evolution": true,
+    "Evolution": true,
+    "Cout evolution": "2"
+  },
+  "16": {
+    "id": "16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dracolotl des abysses",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/16.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dracolotl des abysses",
+    "type": false,
+    "cost": "6",
+    "SD": false,
+    "Type": "Esprit",
+    "Force": 0,
+    "Endurance": 0,
+    "Pre evolution": true,
+    "Evolution": true,
+    "Cout evolution": "2"
+  },
+  "17": {
+    "id": "17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leviathan des abysses",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/17.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leviathan des abysses",
+    "type": "Creature",
+    "cost": "8",
+    "Type": "Esprit",
+    "Force": "20",
+    "Endurance": "30",
+    "Pre evolution": false,
+    "Evolution": true,
+    "Cout evolution": "2"
+  },
+  "18": {
+    "id": "18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Savoir interdit",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/18.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Savoir interdit",
+    "type": "Sort",
+    "cost": "2",
+    "SD": false,
+    "Type": "",
+    "Force": "",
+    "Endurance": "",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "19": {
+    "id": "19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pantin macabre",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/19.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pantin Macabre",
+    "type": "Creature",
+    "cost": "4",
+    "SD": false,
+    "Type": "Horreur Machine",
+    "Force": "10",
+    "Endurance": "15",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": 0
+  },
+  "20": {
+    "id": "20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abomination",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/20.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abomination",
+    "type": "Creature",
+    "cost": "8",
+    "SD": false,
+    "Type": "Horreur Humanoide",
+    "Force": "15",
+    "Endurance": "35",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "21": {
+    "id": "21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Apprenti fleau",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/21.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Apprenti fleau",
+    "type": "Creature",
+    "cost": "2",
+    "SD": false,
+    "Type": "Humanoide ???",
+    "Force": "15",
+    "Endurance": "5",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "22": {
+    "id": "22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Adapte galactique",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/22.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Adepte galactique",
+    "type": false,
+    "cost": "4",
+    "SD": false,
+    "Type": "Humanoide ???",
+    "Force": "20",
+    "Endurance": "15",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "23": {
+    "id": "23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Controle cosmique",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/23.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Controle cosmique",
+    "type": "Sort",
+    "cost": "4",
+    "SD": false,
+    "Type": "",
+    "Force": "",
+    "Endurance": "",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "24": {
+    "id": "24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corbeau pelerin",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/24.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corbeau pelerin",
+    "type": "Creature",
+    "cost": "2",
+    "SD": false,
+    "Type": "Humanoide Animal",
+    "Force": "15",
+    "Endurance": "20",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "25": {
+    "id": "25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Illusion",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/25.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Illusion",
+    "type": "Sort",
+    "cost": "3",
+    "SD": false,
+    "Type": "",
+    "Force": "",
+    "Endurance": "",
+    "Pre evolution": false,
+    "Evolution": false,
+    "Cout evolution": ""
+  },
+  "26": {
+    "id": "26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sun Wukong",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://theodep.github.io/ano-tcg-assets/cards/26.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sun Wukong",
+    "type": "Creature",
+    "cost": "5",
+    "Force": "25",
+    "Endurance": "25",
+    "Type": "Humanoide Animal Divin",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": "Bleu"
+  }
+}
